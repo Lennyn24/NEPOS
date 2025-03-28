@@ -1,0 +1,7 @@
+sqlite3
+tkinter
+webbrowser
+os
+datetime
+glob
+pillow
